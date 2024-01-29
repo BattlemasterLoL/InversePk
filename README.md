@@ -26,11 +26,11 @@ Terminal must be active in the same directory as the python program to launch.
 
 ### Windows
 
-For windows users a compiled app is availible [here](InversePk.exe). The program may also be launched using ther terminal command above.
+For windows users a compiled app is availible [here](https://github.com/BattlemasterLoL/InversePk/releases). The program may also be launched using ther terminal command above.
 
 ### Windows
 
-For macOS users a compiled app is availible [here](InversePk.app). The program may also be launched using ther terminal command above.
+For macOS users a compiled app is availible [here](https://github.com/BattlemasterLoL/InversePk/releases). The program may also be launched using ther terminal command above.
 
 ### Linux
 
