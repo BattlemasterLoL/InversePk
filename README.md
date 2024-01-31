@@ -1,7 +1,7 @@
 # Inverse Pk Calculator
 Compartment ODE solver is a tool focused on solving molecule transfer between compartments problems that are part of the University of Utah BME 4001 - BioTransport class. In using this tool, known data can be entered to create a concentration vs. time plot and solve for additional data values. This program uses trendline fitting for each compartment's data simultaneously in the form:
 
-$$ C(t) = \sum_{i=1}^{N} \sum_{j=1}^{N} a_{ij} e^{-t/\tau_j} $$
+$$ \vec{C}(t) = \sum_{n=1}^{N} a_{n} \vec{E}_n e^{-t/\tau_n} $$
 
 Required Modules:
 <br/>
